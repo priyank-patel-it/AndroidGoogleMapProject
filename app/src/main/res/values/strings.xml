@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">INFO6124FinalCoding</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="the_map">Map</string>
+    <string name="add_address">Location</string>
+    <string name="sms">Send SMS</string>
+    <string name="email">Send Email</string>
+    <string name="alarm">Set Alarm</string>
+    <string name="calendar">Set Calandar Event</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="invalid">Invalid LatLng</string>
+    <string name="noaddress">No address found</string>
+    <string name="problem">Problem with the geolocation service</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="lat">Latitude:</string>
+    <string name="lng">Longitude:</string>
+    <string name="addressat">Address of LatLng</string>
+    <string name="getAddress">Get Address from LatLng</string>
+    <string name="use_new">Use new location</string>
+    <string name="okay" />
+    <string name="not_okay" />
+</resources>
