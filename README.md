@@ -1,7 +1,9 @@
 #Location App
+
 The Location App is an Android application that allows users to view their current location on Google Maps, search nearby places using Google Places, and send their location details through email.
 
 #Features
+
 *#Google Maps#: View the current location of the user on Google Maps interface. Users can tap on the marker to see their address and current latitude/longitude.
 *#Google Places#: View a list of nearby places using Google Places API in Recycler View.
 *#Email#: Allows the user to enter any email address and open an email intent pre-populated with the current location, including latitude, longitude, and address.
