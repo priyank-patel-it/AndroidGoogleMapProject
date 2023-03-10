@@ -4,9 +4,9 @@ The Location App is an Android application that allows users to view their curre
 
 # Features
 
-* Google Maps : View the current location of the user on Google Maps interface. Users can tap on the marker to see their address and current latitude/longitude.
-* Google Places: View a list of nearby places using Google Places API in Recycler View.
-* Email : Allows the user to enter any email address and open an email intent pre-populated with the current location, including latitude, longitude, and address.
+* **Google Maps** : View the current location of the user on Google Maps interface. Users can tap on the marker to see their address and current latitude/longitude.
+* **Google Places**: View a list of nearby places using Google Places API in Recycler View.
+* **Email** : Allows the user to enter any email address and open an email intent pre-populated with the current location, including latitude, longitude, and address.
 
 # Technologies Used
 * Android Studio
@@ -18,10 +18,10 @@ The Location App is an Android application that allows users to view their curre
 * Common Intents
 
 # Screens
-* Menu Fragment: The menu fragment allows users to switch between the Google Maps, Google Places, and Email screens.
-* Google Maps Screen: Users can view their current location on a Google Maps interface. By tapping on the marker, users can see their address and current latitude/longitude.
-* Google Places Screen: Users can view a list of nearby places using Google Places API in Recycler View.
-* Email Screen: Allows users to enter any email address and open an email intent pre-populated with the current location, including latitude, longitude, and address.
+* **Menu Fragment**: The menu fragment allows users to switch between the Google Maps, Google Places, and Email screens.
+* **Google Maps Screen**: Users can view their current location on a Google Maps interface. By tapping on the marker, users can see their address and current latitude/longitude.
+* **Google Places Screen**: Users can view a list of nearby places using Google Places API in Recycler View.
+* **Email Screen**: Allows users to enter any email address and open an email intent pre-populated with the current location, including latitude, longitude, and address.
 
 ## How to Run the App
 1. Clone the repository to your local machine.
